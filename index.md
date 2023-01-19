@@ -259,7 +259,7 @@ table {
     </tr>	
 </table>
 
-11.together we'll mend your heart<br>
+11.Together we'll mend your heart<br>
 <table>
     <tr>
         <th></th>
