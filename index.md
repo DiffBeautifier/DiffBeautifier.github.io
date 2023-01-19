@@ -83,10 +83,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/1ama.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/1ori.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/1ama.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/1diff.wav" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/8ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/8ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/8ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/8diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -102,10 +102,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/9ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/9ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/9ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/9diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -120,10 +120,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/11ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/11ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/11ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/11diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -138,10 +138,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/6ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/6ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/6ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/6diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -156,10 +156,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/5ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/5ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/5ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/5diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -174,10 +174,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/12ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/12ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/12ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/12diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -192,10 +192,10 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/7ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/7ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/7ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/7diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
@@ -210,332 +210,160 @@ table {
     </tr>
     <tr>
         <th> wav </th>
-	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/10ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/10ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/10ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/10diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
 
-
-
-### Dataset
-We carry out the experiments on a private commercial datasetcollected in Chinese. This dataset contains three speakers, speaker1, speaker2, speaker3, of which there are 4019, 20257,
-8915 records, respectively. The total length of the dataset is 30 hours approximately. We randomly split 24000 records of speaker1 and speaker2 for training and 276 records for validation. We randomly select 30, 100, 300, 500 records from speaker3 as training data respectively. Furthermore, the corresponding validation set has 100 records and the corresponding test set has 100 records. To understand in detail the comparision, we count the duration of target speaker's speech in four conditions. The duration of 30, 100, 300, 500 records are about one minute, four minutes, ten minutes, and twenty minutes respectively.
- 
-
-### Results
-In order to evaluate the performance of our model, we use the text transcripts in test set as the input of the model, and obtain the synthetic audios, which are rated together with the ground truth audio by speaker3. Here, to describe the superiority of the functional DMN framework, we list the four Tables such as Table1, Table2, Table3 and Table4. Among them, the six texts are in the test set of speaker3. 
-
-
-<!-- <p>&nbsp;</p> 
-
-<script>
-function pauseOthers(ele) {
-    $("audio").not(ele).each(function (index, audio) {audio.pause();});
-}
-</script>
-
-<style>
-.main-content table {
-    display: inline-table;
-}
-table {
-    table-layout:fixed;
-    width: 100%;
-    overflow: hidden;
-}
-#player{
-    width: 100%;
-}
-</style> -->
-
-
-<table>
-	<CAPTION>Table.1 The comparision between the functional DMN (FDMN) and other models when the number of target speaker's speech is 30</CAPTION>
-    <tr>
-        <th> ID </th>
-		<th> Ground Truth</th>
-        <th> Tacotron2 </th>
-        <th> Tacotron2+x-vector </th>
-		<th> DMN</th>
-        <th> FDMN </th>
-    </tr>
-    <tr>
-        <th> text1 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/0.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	<tr>
-        <th> text2 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/1.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text3 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/2.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text4 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/3.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text5 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/4.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text6 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/30/5.mp3" type="audio/mpeg"></audio> </th>
-    </tr>	
-</table>
-
+### English
 
 <p>&nbsp;</p> 
-
-
+9.Because when the sun shines, we’ll shine together. Told you I'll be here forever<br>
 <table>
-	<CAPTION>Table.2 The comparision between the functional DMN (FDMN) and other models when the number of target speaker's speech is 100</CAPTION>
+<!-- 	<CAPTION class="text-left">1.在我心中曾经有一个梦</CAPTION> -->
     <tr>
-        <th> ID </th>
-		<th> Ground Truth</th>
-        <th> Tacotron2 </th>
-        <th> Tacotron2+x-vector </th>
-		<th> DMN</th>
-        <th> FDMN </th>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
     <tr>
-        <th> text1 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/0.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	<tr>
-        <th> text2 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/1.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text3 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/2.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text4 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/3.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text5 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/4.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text6 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/100/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/100/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/100/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/100/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/100/5.mp3" type="audio/mpeg"></audio> </th>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/14ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/14ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/14ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/14diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
-<p>&nbsp;</p> 
-
-
+10.Baby cause in the dark, you can't see shiny cars<br>
 <table>
-	<CAPTION>Table.3 The comparision between the functional DMN (FDMN) and other models when the number of target speaker's speech is 300</CAPTION>
+<!-- 	<CAPTION class="text-left">2.在日月沧桑后 你在谁身旁</CAPTION> -->
     <tr>
-        <th> ID </th>
-		<th> Ground Truth</th>
-        <th> Tacotron2 </th>
-        <th> Tacotron2+x-vector </th>
-		<th> DMN</th>
-        <th> FDMN </th>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
     <tr>
-        <th> text1 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/0.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	<tr>
-        <th> text2 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/1.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text3 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/2.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text4 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/3.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text5 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/4.mp3" type="audio/mpeg"></audio> </th>
-    </tr>
-	
-	
-	<tr>
-        <th> text6 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/300/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/300/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/300/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/300/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/300/5.mp3" type="audio/mpeg"></audio> </th>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/13ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/13ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/13ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/13diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
-
-<p>&nbsp;</p> 
-
-
+11.together we'll mend your heart<br>
 <table>
-	<CAPTION>Table.4 The comparision between the functional DMN (FDMN) and other models when the number of target speaker's speech is 500</CAPTION>
     <tr>
-        <th> ID </th>
-		<th> Ground Truth</th>
-        <th> Tacotron2 </th>
-        <th> Tacotron2+x-vector </th>
-		<th> DMN</th>
-        <th> FDMN </th>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
     <tr>
-        <th> text1 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/0.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/16ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/16ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/16ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/16diff.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+12.I said: No one has to know what we do<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
-	
-	<tr>
-        <th> text2 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/1.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/1.mp3" type="audio/mpeg"></audio> </th>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/20ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/20ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/20ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/20diff.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+13.Wildest dreams<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
-	
-	
-	<tr>
-        <th> text3 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/2.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/2.mp3" type="audio/mpeg"></audio> </th>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/19ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/19ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/19ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/19diff.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+14.That we can baby, we can change and feel alright<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
-	
-	
-	<tr>
-        <th> text4 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/3.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/3.mp3" type="audio/mpeg"></audio> </th>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/17ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/17ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/17ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/17diff.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+15.Standin' in a nice dress Starin' at the sunset, babe<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
-	
-	
-	<tr>
-        <th> text5 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/4.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/4.mp3" type="audio/mpeg"></audio> </th>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/18ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/18ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/18ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/18diff.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+16.Said I'll always be a friend, took an oath. I'am stick it out till the end<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
     </tr>
-	
-	
-	<tr>
-        <th> text6 </th>
-		<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/500/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/500/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/500/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/500/5.mp3" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/FDMN/500/5.mp3" type="audio/mpeg"></audio> </th>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/15ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/15ori.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/15ama.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DiffBeautifier/15diff.wav" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
 
