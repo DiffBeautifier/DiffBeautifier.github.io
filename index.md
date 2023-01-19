@@ -71,9 +71,9 @@ table {
 </style>
 
 <p>&nbsp;</p> 
-
+1.在我心中曾经有一个梦<br>
 <table>
-	<CAPTION class="text-left">1.在我心中曾经有一个梦</CAPTION>
+<!-- 	<CAPTION class="text-left">1.在我心中曾经有一个梦</CAPTION> -->
     <tr>
         <th></th>
 	<th> GT Amateur</th>
@@ -90,8 +90,9 @@ table {
     </tr>	
 </table>
 
+2.再没有恨，也没有了痛<br>
 <table>
-	<CAPTION class="text-left">2.在日月沧桑后 你在谁身旁</CAPTION>
+<!-- 	<CAPTION class="text-left">2.在日月沧桑后 你在谁身旁</CAPTION> -->
     <tr>
         <th></th>
 	<th> GT Amateur</th>
@@ -108,8 +109,8 @@ table {
     </tr>	
 </table>
 
+3.明天你是否还惦记曾经最爱哭的你<br>
 <table>
-	<CAPTION class="text-left">3.再没有恨，也没有了痛</CAPTION>
     <tr>
         <th></th>
 	<th> GT Amateur</th>
@@ -125,6 +126,98 @@ table {
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
     </tr>	
 </table>
+
+4.东边牧马，西边放羊<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
+    </tr>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+5.生命已被牵引潮落潮涨<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
+    </tr>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+6.你总说毕业遥遥无期转眼就各奔东西<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
+    </tr>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+7.野辣辣的情歌就唱到了天亮<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
+    </tr>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+8.用我们的歌换你真心笑容<br>
+<table>
+    <tr>
+        <th></th>
+	<th> GT Amateur</th>
+        <th> GT Professional</th>
+        <th> Pitch Predictor</th>
+	<th> DiffBeautifier</th>
+    </tr>
+    <tr>
+        <th> wav </th>
+	<th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Ground_Truth/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/Tacotron2_x-vec/30/0.mp3" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/DMN/30/0.mp3" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+
 
 
 ### Dataset
