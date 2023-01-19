@@ -77,7 +77,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -96,7 +96,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -114,7 +114,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -132,7 +132,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -150,7 +150,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -168,7 +168,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -186,7 +186,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -204,7 +204,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -227,7 +227,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -246,7 +246,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -264,7 +264,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -282,7 +282,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -300,7 +300,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -318,7 +318,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -336,7 +336,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
@@ -354,7 +354,7 @@ table {
     <tr>
         <th></th>
 	<th> GT Amateur</th>
-        <th> GT Professional</th>
+        <th> GT Profession</th>
         <th> Pitch Predictor</th>
 	<th> DiffBeautifier</th>
     </tr>
