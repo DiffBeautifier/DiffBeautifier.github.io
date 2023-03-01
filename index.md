@@ -16,7 +16,7 @@ Singing voice beautifying (SVB) is a novel task that is widely used in practical
 
 <table>
     <tr>
-        <td ><center><img src="assets/image/figure3.png"/> </center></td>
+        <td ><center><img src="assets/image/figure4.png"/> </center></td>
 <!--         <td ><center><img src="assets/image/fig2.jpg"/> </center></td> -->
     </tr>
 <!--     <tr>
